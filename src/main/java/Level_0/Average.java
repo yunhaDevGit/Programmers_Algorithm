@@ -1,7 +1,7 @@
 package Level_0;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/120817
-// 배열의 평균값
+// 배열의 평균
 public class Average {
     public static double solution(int[] numbers) {
 //        return Arrays.stream(numbers).average().orElse(0);
