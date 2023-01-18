@@ -1,5 +1,7 @@
 package Level_0;
 
+// https://school.programmers.co.kr/learn/courses/30/lessons/120816?language=java
+// 피자 나눠 먹기 (3)
 class Pizza2 {
     public int solution(int slice, int n) {
         int answer = 0;
