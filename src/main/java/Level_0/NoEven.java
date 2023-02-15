@@ -1,3 +1,5 @@
+package Level_0;
+
 import java.util.*;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/120813
@@ -13,7 +15,7 @@ class NoEven {
         
         return list;
     }
-    public void static main(String[] args) {
+    public static void main(String[] args) {
     
         int n = 10;
         System.out.println(solution(n));
